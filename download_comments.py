@@ -1,5 +1,4 @@
 import json
-import pydantic
 import os 
 import logging
 
