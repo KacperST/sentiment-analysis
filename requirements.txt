@@ -1,7 +1,6 @@
 pandas
 numpy
 pydantic
-json
 youtube_comment_downloader
 deep_translator
 spacy

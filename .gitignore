@@ -164,3 +164,4 @@ cython_debug/
 
 2024/ 
 2024_translated
+*.json
