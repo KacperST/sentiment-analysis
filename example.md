@@ -1,1 +1,0 @@
-"The race defining moment was clearly the overtake after the first pit stop. Piastri completely caught Leclerc by surprise, amazing move. What a race ! Seeing a Mclaren and a Ferrari fighting so close laps after laps for the win really gives you Hakkinen / Schumacher vibes. More of this please \ud83d\ude4f\ud83c\udffc",
