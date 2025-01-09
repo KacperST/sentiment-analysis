@@ -1,3 +1,5 @@
+# Project structure
+```
 ├── .gitignore                                              # Github metadata for repository
 ├── 2024                                                    # Folder with comments from each race of 2024 F1
 ├── 2024_translated                                         # Folder with translated comments from each race of 2024 F1
@@ -15,3 +17,4 @@
 ├── races.json                                              # JSON with defined youtube urls to F1 race highlits
 ├── requirements.txt                                        # Requirements needed for running scripts and notebooks.
 ├── results.ipynb                                           # Jupyter notebook with results of training and sentiment analysis statistics
+```
